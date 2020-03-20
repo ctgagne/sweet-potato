@@ -1,5 +1,8 @@
 :root {
-    font-size: 16px;
+    font-size: 16px;  margin-top: 5px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 h1 {
     text-align: center; border: 2px solid black; padding: 3%;  font-family: 'Josefin Sans', sans-serif;
