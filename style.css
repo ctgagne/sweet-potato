@@ -8,10 +8,13 @@ h2 {
     text-align: left;font-family: 'Josefin Sans', sans-serif; 
 }
 p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif; text-align: left;
 }
-ol, ul {font-family: 'Montserrat', sans-serif;
+ol, ul {font-family: 'Montserrat', sans-serif; text-align: left;
 }
 h3 {
     text-align: center;
+}
+div {
+    text-align: left;
 }
